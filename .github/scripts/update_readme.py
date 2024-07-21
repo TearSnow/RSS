@@ -1,6 +1,6 @@
 import feedparser
 import os
-from datetime import datetime
+from dateutil import parser as date_parser
 
 # RSS Feed URLs
 RSS_URLS = [
@@ -24,8 +24,15 @@ def update_readme(content):
 
 def fetch_rss_feed(url):
     feed = feedparser.parse(url)
-    entries = feed.entries
-    return entries
+    return feed.entries
+
+def get_pub_date(entry):
+    if 'published' in entry:
+        return date_parser.parse(entry.published)
+    elif 'pubDate' in entry:
+        return date_parser.parse(entry.pubDate)
+    else:
+        return datetime.min  # 如果没有发布日期，返回最小日期
 
 def main():
     readme_content = read_readme()
@@ -37,7 +44,7 @@ def main():
         all_entries.extend(entries)
 
     # 按发布时间排序
-    all_entries.sort(key=lambda entry: entry.published_parsed, reverse=True)
+    all_entries.sort(key=lambda entry: get_pub_date(entry), reverse=True)
 
     # 生成排序后的链接列表
     rss_links = [f"- [{entry.title}]({entry.link})" for entry in all_entries]
