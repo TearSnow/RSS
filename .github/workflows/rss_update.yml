@@ -30,7 +30,9 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
+        git stash  # 临时保存未提交的更改
         git pull origin main --rebase  # 确保本地仓库与远程仓库同步
+        git stash pop  # 恢复未提交的更改
         git add README.md
         git commit -m "Update RSS links"
         git push
