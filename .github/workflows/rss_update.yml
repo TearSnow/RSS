@@ -30,6 +30,7 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
+        git pull origin main  # 确保本地仓库与远程仓库同步
         git add README.md
         git commit -m "Update RSS links"
         git push

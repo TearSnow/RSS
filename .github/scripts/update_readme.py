@@ -9,7 +9,7 @@ def read_readme():
     if os.path.exists('README.md'):
         with open('README.md', 'r') as file:
             return file.read()
-    return ""
+    return "## RSS Links\n## End RSS Links\n"  # 如果没有 README.md 文件，则创建一个包含 RSS Links 部分的模板
 
 # 更新 README.md 文件
 def update_readme(content):
