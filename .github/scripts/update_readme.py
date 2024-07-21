@@ -1,5 +1,6 @@
 import feedparser
 import os
+from datetime import datetime
 
 # RSS Feed URLs
 RSS_URLS = [
@@ -24,18 +25,23 @@ def update_readme(content):
 def fetch_rss_feed(url):
     feed = feedparser.parse(url)
     entries = feed.entries
-    links = [f"- [{entry.title}]({entry.link})" for entry in entries]
-    return "\n".join(links)
+    return entries
 
 def main():
     readme_content = read_readme()
 
-    # 获取所有RSS源的内容
-    all_rss_links = []
+    # 获取所有RSS源的内容并合并
+    all_entries = []
     for url in RSS_URLS:
-        rss_links = fetch_rss_feed(url)
-        all_rss_links.append(rss_links)
-    combined_rss_links = "\n".join(all_rss_links)
+        entries = fetch_rss_feed(url)
+        all_entries.extend(entries)
+
+    # 按发布时间排序
+    all_entries.sort(key=lambda entry: entry.published_parsed, reverse=True)
+
+    # 生成排序后的链接列表
+    rss_links = [f"- [{entry.title}]({entry.link})" for entry in all_entries]
+    combined_rss_links = "\n".join(rss_links)
 
     # 更新 README 内容
     updated_content = readme_content
