@@ -1,6 +1,7 @@
 import feedparser
 import os
 from dateutil import parser as date_parser
+from urllib.parse import urlsplit, urlunsplit, parse_qs, urlencode
 
 # RSS Feed URLs
 RSS_URLS = [
@@ -34,11 +35,12 @@ def get_pub_date(entry):
     else:
         return datetime.min  # 如果没有发布日期，返回最小日期
 
-def add_utm_param(url):
-    if '?' in url:
-        return f"{url}&utm_source=feed"
-    else:
-        return f"{url}?utm_source=feed"
+def remove_utm_param(url):
+    parts = list(urlsplit(url))
+    query = parse_qs(parts[3])
+    query.pop('utm_source', None)  # 移除 utm_source 参数
+    parts[3] = urlencode(query, doseq=True)
+    return urlunsplit(parts)
 
 def main():
     readme_content = read_readme()
@@ -53,7 +55,7 @@ def main():
     all_entries.sort(key=lambda entry: get_pub_date(entry), reverse=True)
 
     # 生成排序后的链接列表
-    rss_links = [f"- [{entry.title}]({add_utm_param(entry.link)})" for entry in all_entries]
+    rss_links = [f"- [{entry.title}]({remove_utm_param(entry.link)})" for entry in all_entries]
     combined_rss_links = "\n".join(rss_links)
 
     # 更新 README 内容
