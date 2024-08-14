@@ -1,4 +1,6 @@
 ## RSS Links
+- [国内程序员如何订阅GitHub Copilot会员](https://leixue.com/ask/how-can-subscribe-github-copilot)
+- [如何使用WildCard虚拟卡开通GitHub Copilot订阅会员](https://leixue.com/ask/how-use-wildcard-subscribe-github-copilot)
 - [OpenAI API绑卡充值遇到Declined如何处理](https://leixue.com/ask/openai-api-billing-declined)
 - [OpenAI API使用教程，开发者和专业人士的高级GPT接口](https://leixue.com/app/openai-api)
 - [ChatGPT Plus订阅教程，开发者和内容创作者的必备AI工具](https://leixue.com/app/chatgpt-plus)
@@ -22,8 +24,6 @@
 - [华为手机密码忘记了怎么解锁](https://leixue.com/ask/how-to-unlock-a-huawei-phone-if-you-forget-your-password)
 - [如何查看电脑硬件是否被更换过](https://leixue.com/ask/how-to-check-if-the-hardware-has-been-replaced)
 - [华为手机不用电脑怎么刷机](https://leixue.com/ask/how-to-flash-a-huawei-phone-without-a-computer)
-- [华为手机怎么刷机解除华为账号](https://leixue.com/ask/how-to-reset-huawei-account-by-flashing-huawei-phone)
-- [华为手机黑屏开不了机怎么办](https://leixue.com/ask/what-should-i-do-if-my-huawei-phone-has-a-black-screen-and-cannot-turn-on)
 - [AnyDesk，轻量级的远程控制软件](https://leixue.com/app/anydesk)
 - [ToDesk，国产的远程控制连接软件](https://leixue.com/app/todesk)
 - [TeamViewer，广泛使用的远程桌面软件](https://leixue.com/app/teamviewer)
