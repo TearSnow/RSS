@@ -1,4 +1,5 @@
 ## RSS Links
+- [WildCard Claude随心用，无需账户和绑卡实现Claude直接用](https://leixue.com/app/wildcard-claude)
 - [WildCard虚拟卡可以注销吗](https://leixue.com/ask/can-wildcard-virtual-card-be-cancelled)
 - [网易跨境支付，0汇损收款的跨境电商收款平台](https://leixue.com/app/netease-global-pay)
 - [万里汇WorldFirst，蚂蚁集团旗下的跨境电商外贸收款平台](https://leixue.com/app/worldfirst)
@@ -39,7 +40,6 @@
 - [微软翻译Microsoft Translator，多语言实时对话翻译工具](https://leixue.com/app/microsoft-translator)
 - [谷歌翻译Google Translate，全球最广泛使用的翻译工具之一](https://leixue.com/app/google-translate)
 - [DeepL，更为自然准确的翻译工具](https://leixue.com/app/deepl)
-- [Poedit，便捷高效的跨平台汉化翻译编辑器](https://leixue.com/app/poedit)
 - [比特币的多重角色与全球共识的形成](https://leixue.com/news/the-multiple-roles-of-bitcoin-and-the-formation-of-global-consensus)
 - [AMD 正式发布 Ryzen 9000 系列处理器](https://leixue.com/news/amd-officially-releases-ryzen-9000-series-processors)
 - [iPad mini 7或将继续搭载A系列芯片](https://leixue.com/news/ipad-mini-7-may-continue-to-be-equipped-with-a-series-chips)
