@@ -1,4 +1,5 @@
 ## RSS Links
+- [Typecho，优雅而小巧的轻量级博客系统](https://leixue.com/app/typecho)
 - [Z-Blog，轻量级的开源博客系统](https://leixue.com/app/zblog)
 - [怎么查看显卡型号](https://leixue.com/ask/how-to-check-the-graphics-card-model)
 - [怎样缩小磁盘分区而不丢失数据](https://leixue.com/ask/how-to-shrink-disk-partitions-without-losing-data)
@@ -38,7 +39,6 @@
 - [亚马逊AWS，全球领先的云计算服务提供商](https://leixue.com/app/amazon-aws)
 - [PingPong，为中国外贸电商卖家提供的跨境收款服务](https://leixue.com/app/pingpong)
 - [Wise，专注提供跨境支付和货币兑换服务](https://leixue.com/app/wise)
-- [Stripe，全球在线支付服务商](https://leixue.com/app/stripe)
 - [AMD新功能AFMF 2，一键将游戏帧率翻倍](https://leixue.com/news/amd-afmf-2-doubles-frame-rate)
 - [比特币的多重角色与全球共识的形成](https://leixue.com/news/the-multiple-roles-of-bitcoin-and-the-formation-of-global-consensus)
 - [AMD 正式发布 Ryzen 9000 系列处理器](https://leixue.com/news/amd-officially-releases-ryzen-9000-series-processors)
