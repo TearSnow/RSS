@@ -1,4 +1,5 @@
 ## RSS Links
+- [外卡是什么](https://leixue.com/ask/what-is-a-wild-card)
 - [电脑小喇叭显示红色叉叉怎么解决](https://leixue.com/ask/how-to-solve-the-problem-of-the-red-cross-displayed-on-the-computer-speaker)
 - [电脑显示无法找到输出设备怎么办](https://leixue.com/ask/what-should-i-do-if-the-computer-shows-that-the-output-device-cannot-be-found)
 - [联想笔记本充不进电怎么回事](https://leixue.com/ask/whats-wrong-with-lenovo-laptops-not-charging)
@@ -21,7 +22,6 @@
 - [怎么关闭Windows Defender安全中心](https://leixue.com/ask/how-to-close-windows-defender-security-center)
 - [Root权限怎么开启](https://leixue.com/ask/how-to-enable-root-permission)
 - [Windows 11 免费升级，官方原版系统ISO镜像下载地址](https://leixue.com/app/windows11)
-- [Mac软件权限设置在哪](https://leixue.com/ask/where-are-the-mac-software-permission-settings-located)
 - [DigitalOcean，为软件开发人员而生的虚拟专用服务器](https://leixue.com/app/digitalocean)
 - [Typecho，优雅而小巧的轻量级博客系统](https://leixue.com/app/typecho)
 - [Z-Blog，轻量级的开源博客系统](https://leixue.com/app/zblog)
