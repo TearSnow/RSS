@@ -1,4 +1,5 @@
 ## RSS Links
+- [如何设置150迷你型无线路由器](https://leixue.com/ask/how-to-set-up-a-150-mini-wireless-router)
 - [iPhone如何删除iCloud已同步的照片](https://leixue.com/ask/how-to-delete-icloud-synced-photos-on-iphone)
 - [手机IP地址在哪儿查看](https://leixue.com/ask/where-can-i-find-my-mobile-ip-address)
 - [BIOS里改UEFI模式PE就进不去如何解决](https://leixue.com/ask/how-to-solve-the-problem-of-pe-not-being-able-to-enter-when-changing-uefi-mode-in-bios)
@@ -23,7 +24,6 @@
 - [OpenLiteSpeed，高性能开源Web服务器](https://leixue.com/app/openlitespeed)
 - [Lighttpd，开源的高效轻量级Web服务器](https://leixue.com/app/lighttpd)
 - [Debian系统主要应用场景有哪些](https://leixue.com/ask/what-are-application-of-debian)
-- [怎么查看苹果手机的激活日期时间](https://leixue.com/ask/how-to-check-the-activation-date-and-time-of-an-apple-phone)
 - [Fedora Cloud，为云计算设计优化的轻量级虚拟机环境](https://leixue.com/app/fedora-cloud)
 - [Fedora IoT，功能强大可扩展的轻量级物联网操作系统](https://leixue.com/app/fedora-iot)
 - [Fedora CoreOS，为容器化而设计优化的轻量级操作系统](https://leixue.com/app/fedora-coreos)
