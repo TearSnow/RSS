@@ -1,4 +1,5 @@
 ## RSS Links
+- [Mac系统怎么升级更新](https://leixue.com/ask/how-to-upgrade-and-update-mac-system)
 - [智能家居为什么要单独配网关](https://leixue.com/ask/why-do-smart-homes-need-a-separate-gateway)
 - [电脑无法加载用户配置文件怎么解决](https://leixue.com/ask/how-to-solve-the-problem-that-the-computer-cannot-load-the-user-profile)
 - [网关是干什么用的](https://leixue.com/ask/what-is-the-gateway-used-for)
@@ -32,7 +33,6 @@
 - [Joomla，多样灵活的开源内容管理系统](https://leixue.com/app/joomla)
 - [Drupal，高级的开源内容管理框架系统](https://leixue.com/app/drupal)
 - [OpenAI o1和GPT-4o有哪些区别](https://leixue.com/ask/openai-o1-and-gpt-4o)
-- [OpenAI o1-mini是什么](https://leixue.com/ask/openai-o1-mini)
 - [OpenAI发布新模型o1，物理生物化学问题超过博士水平](https://leixue.com/news/openai-o1-new-model)
 - [Noun Project，极具特色的矢量图标素材网站](https://leixue.com/app/noun-project)
 - [Flaticon，高质量的矢量图标和贴纸资源网站](https://leixue.com/app/flaticon)
