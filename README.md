@@ -1,4 +1,6 @@
 ## RSS Links
+- [国内用户如何获取国外虚拟信用卡](https://leixue.com/ask/how-can-domestic-users-obtain-foreign-virtual-credit-cards)
+- [国内用户如何订阅Midjourney会员](https://leixue.com/ask/how-to-subscribe-midjourney)
 - [如何使用WildCard虚拟卡免费获取DeepL API翻译接口](https://leixue.com/ask/how-to-get-deepl-api-by-wildcard)
 - [电脑键盘串键怎么解决](https://leixue.com/ask/how-to-solve-the-problem-of-serial-keyboard-keys-on-a-computer-keyboard)
 - [键盘噪音大怎么办](https://leixue.com/ask/what-should-i-do-if-the-keyboard-noise-is-loud)
@@ -18,8 +20,6 @@
 - [为什么键盘输入会有延迟](https://leixue.com/ask/why-is-there-a-delay-in-keyboard-input)
 - [怎么调整键盘的灵敏度](https://leixue.com/ask/how-to-adjust-the-sensitivity-of-the-keyboard)
 - [Windows 11怎么更改默认应用](https://leixue.com/ask/how-to-change-default-apps-in-windows-11)
-- [beWildCard是什么](https://leixue.com/ask/what-is-bewildcard)
-- [Windows 11系统设置没有恢复选项怎么办](https://leixue.com/ask/what-should-i-do-if-there-is-no-recovery-option-for-windows-11-system-settings)
 - [Microsoft Copilot，微软旗下日常AI助手](https://leixue.com/app/copilot)
 - [Google Gemini，谷歌生成式人工智能聊天机器人](https://leixue.com/app/gemini)
 - [Claude，专为工作而打造的人工智能助手](https://leixue.com/app/claude)
