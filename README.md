@@ -1,4 +1,6 @@
 ## RSS Links
+- [Win11笔记本玩游戏不能全屏怎么解决](https://leixue.com/ask/how-to-solve-the-problem-that-windows-11-laptops-cannot-play-games-in-full-screen)
+- [Win11字体大小怎么设置](https://leixue.com/ask/how-to-set-the-font-size-in-win11)
 - [国内用户如何获取国外虚拟信用卡](https://leixue.com/ask/how-can-domestic-users-obtain-foreign-virtual-credit-cards)
 - [国内用户如何订阅Midjourney会员](https://leixue.com/ask/how-to-subscribe-midjourney)
 - [如何使用WildCard虚拟卡免费获取DeepL API翻译接口](https://leixue.com/ask/how-to-get-deepl-api-by-wildcard)
@@ -18,8 +20,6 @@
 - [清洁电脑屏幕需要注意什么](https://leixue.com/ask/what-to-pay-attention-to-when-cleaning-computer-screens)
 - [Win11系统如何更改桌面背景](https://leixue.com/ask/how-to-change-desktop-background-in-win11-system)
 - [为什么键盘输入会有延迟](https://leixue.com/ask/why-is-there-a-delay-in-keyboard-input)
-- [怎么调整键盘的灵敏度](https://leixue.com/ask/how-to-adjust-the-sensitivity-of-the-keyboard)
-- [Windows 11怎么更改默认应用](https://leixue.com/ask/how-to-change-default-apps-in-windows-11)
 - [Microsoft Copilot，微软旗下日常AI助手](https://leixue.com/app/copilot)
 - [Google Gemini，谷歌生成式人工智能聊天机器人](https://leixue.com/app/gemini)
 - [Claude，专为工作而打造的人工智能助手](https://leixue.com/app/claude)
