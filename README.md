@@ -1,4 +1,5 @@
 ## RSS Links
+- [Win11如何调整显示器的缩放比例](https://leixue.com/ask/how-to-adjust-the-zoom-ratio-of-the-monitor-in-win11)
 - [Win11笔记本玩游戏不能全屏怎么解决](https://leixue.com/ask/how-to-solve-the-problem-that-windows-11-laptops-cannot-play-games-in-full-screen)
 - [Win11字体大小怎么设置](https://leixue.com/ask/how-to-set-the-font-size-in-win11)
 - [国内用户如何获取国外虚拟信用卡](https://leixue.com/ask/how-can-domestic-users-obtain-foreign-virtual-credit-cards)
@@ -19,7 +20,6 @@
 - [如何在Windows 11中开启夜间模式](https://leixue.com/ask/how-to-activate-night-mode-in-win-11)
 - [清洁电脑屏幕需要注意什么](https://leixue.com/ask/what-to-pay-attention-to-when-cleaning-computer-screens)
 - [Win11系统如何更改桌面背景](https://leixue.com/ask/how-to-change-desktop-background-in-win11-system)
-- [为什么键盘输入会有延迟](https://leixue.com/ask/why-is-there-a-delay-in-keyboard-input)
 - [Microsoft Copilot，微软旗下日常AI助手](https://leixue.com/app/copilot)
 - [Google Gemini，谷歌生成式人工智能聊天机器人](https://leixue.com/app/gemini)
 - [Claude，专为工作而打造的人工智能助手](https://leixue.com/app/claude)
