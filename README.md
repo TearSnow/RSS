@@ -1,4 +1,6 @@
 ## RSS Links
+- [WildCard虚拟信用卡为什么适合程序开发员](https://leixue.com/ask/why-wildcard-is-suitable-for-programmers)
+- [WildCard最新官网地址是多少](https://leixue.com/ask/wildcard-link)
 - [Windows 11怎么禁用自动更新](https://leixue.com/ask/how-to-disable-automatic-updates-in-win11)
 - [Windows 11怎么设置壁纸自动更换](https://leixue.com/ask/how-to-set-automatic-wallpaper-replacement-in-win11)
 - [为什么键盘反应变慢了](https://leixue.com/ask/why-is-the-keyboard-response-slower)
@@ -18,9 +20,7 @@
 - [国内用户如何订阅Midjourney会员](https://leixue.com/ask/how-to-subscribe-midjourney)
 - [如何使用WildCard虚拟卡免费获取DeepL API翻译接口](https://leixue.com/ask/how-to-get-deepl-api-by-wildcard)
 - [电脑键盘串键怎么解决](https://leixue.com/ask/how-to-solve-the-problem-of-serial-keyboard-keys-on-a-computer-keyboard)
-- [键盘噪音大怎么办](https://leixue.com/ask/what-should-i-do-if-the-keyboard-noise-is-loud)
 - [DeepL API，开发人员友好型企业级翻译接口](https://leixue.com/app/deepl-api)
-- [Windows SE和Windows 11有什么区别](https://leixue.com/ask/what-is-the-difference-between-windows-se-and-windows-11)
 - [Microsoft Copilot，微软旗下日常AI助手](https://leixue.com/app/copilot)
 - [Google Gemini，谷歌生成式人工智能聊天机器人](https://leixue.com/app/gemini)
 - [Claude，专为工作而打造的人工智能助手](https://leixue.com/app/claude)
