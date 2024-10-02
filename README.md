@@ -1,4 +1,6 @@
 ## RSS Links
+- [WildCard虚拟信用卡为什么支付ChatGPT Plus订阅更稳定](https://leixue.com/ask/why-is-wildcard-more-stable-for-chatgpt-plus-subscriptions)
+- [为什么说WildCard虚拟信用卡更适合OpenAI API充值](https://leixue.com/ask/why-is-wildcard-more-suitable-for-openai-api-recharge)
 - [WildCard虚拟信用卡为什么适合程序开发员](https://leixue.com/ask/why-wildcard-is-suitable-for-programmers)
 - [WildCard最新官网地址是多少](https://leixue.com/ask/wildcard-link)
 - [Windows 11怎么禁用自动更新](https://leixue.com/ask/how-to-disable-automatic-updates-in-win11)
@@ -18,8 +20,6 @@
 - [Win11字体大小怎么设置](https://leixue.com/ask/how-to-set-the-font-size-in-win11)
 - [国内用户如何获取国外虚拟信用卡](https://leixue.com/ask/how-can-domestic-users-obtain-foreign-virtual-credit-cards)
 - [国内用户如何订阅Midjourney会员](https://leixue.com/ask/how-to-subscribe-midjourney)
-- [如何使用WildCard虚拟卡免费获取DeepL API翻译接口](https://leixue.com/ask/how-to-get-deepl-api-by-wildcard)
-- [电脑键盘串键怎么解决](https://leixue.com/ask/how-to-solve-the-problem-of-serial-keyboard-keys-on-a-computer-keyboard)
 - [DeepL API，开发人员友好型企业级翻译接口](https://leixue.com/app/deepl-api)
 - [Microsoft Copilot，微软旗下日常AI助手](https://leixue.com/app/copilot)
 - [Google Gemini，谷歌生成式人工智能聊天机器人](https://leixue.com/app/gemini)
